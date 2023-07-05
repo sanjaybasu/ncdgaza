@@ -1,0 +1,40 @@
+# Study protocol
+
+Title: Cost-effectiveness of non-communicable disease prevention and control interventions in the Palestinian population in Gaza
+
+Background
+
+Non-communicable diseases (NCDs) are the leading cause of death and disability worldwide [1]. In the Palestinian population in Gaza, NCDs account for 75% of all deaths, with the highest mortality rates from cardiovascular disease (CVD), followed by diabetes, cancer, and respiratory disease [2]. NCD risk factors are highly prevalent in Gaza, including smoking, physical inactivity, unhealthy diet, and hypertension [3]. The Palestinian population in Gaza is also characterized by poverty, food insecurity, and limited access to health care, which further contribute to the burden of NCDs [4].
+
+Objectives
+
+The objective of this study is to evaluate the cost-effectiveness of NCD prevention and control interventions in the Palestinian population in Gaza.
+
+Methods
+
+This study will use a microsimulation model to compare the effectiveness and cost-effectiveness of a range of NCD prevention and control interventions. The model will be constructed using data from a cross-sectional household survey, a modified Delphi process, and systematic reviews and meta-analyses of intervention effectiveness.
+
+Data sources
+
+Cross-sectional household survey: A cross-sectional household survey will be conducted in Gaza among adults aged 40 years and older. The survey will collect information on sociodemographics, NCD risk factors, and health behaviors.
+Modified Delphi process: A modified Delphi process will be conducted with a panel of local public health experts to review the WHO list of 85 recommended interventions for NCDs and determine which are most feasible in the Gaza context.
+Systematic reviews and meta-analyses: Systematic reviews and meta-analyses will be conducted to assess the effectiveness of the selected NCD interventions.
+Modeling methods
+
+The microsimulation model will be constructed using data from the cross-sectional household survey and the modified Delphi process. The model will simulate the life-course of each person across ages 40 years and older in the Palestinian population of Gaza and compute their disability-adjusted life-years (DALYs) lost to NCDs, and the costs of the selected NCD interventions, over a 10-year policy time horizon from a societal perspective. The incremental cost-effectiveness in 2023 international dollars per DALY averted will be computed as each individual intervention is compared to the current status-quo level of exposure to that intervention per the survey, at a 3% annual discount rate for both dollars and DALYs.
+
+Ethics
+
+The study will be approved by the Institutional Review Boards of Al-Quds University and Imperial College London.
+
+Timeline
+
+The study will be conducted over the period 2020-2023.
+
+Dissemination
+
+The results of the study will be disseminated in peer-reviewed journals and at scientific conferences.
+
+Conclusion
+
+This study will provide important information on the cost-effectiveness of NCD prevention and control interventions in the Palestinian population in Gaza. The results of the study will inform policy decisions on the allocation of resources for NCD prevention and control in Gaza.
